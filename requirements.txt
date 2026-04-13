@@ -1,3 +1,4 @@
+# LangChain dependencies
 langchain
 langchain_community
 PyPDF2
@@ -11,3 +12,14 @@ huggingface-hub
 InstructorEmbedding
 sentence-transformers
 pydantic
+
+# Knowledge Graph and XGBoost dependencies
+pyspark==3.4.0
+graphframes==0.8.2
+xgboost==1.7.5
+pandas==2.0.3
+numpy==1.24.3
+scikit-learn==1.3.0
+matplotlib==3.7.1
+seaborn==0.12.2
+jupyter==1.0.0
